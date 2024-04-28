@@ -1,0 +1,1 @@
+enum NodeType { CLN, LND }
